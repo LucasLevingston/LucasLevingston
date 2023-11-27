@@ -1,4 +1,4 @@
-👋 Olá, meu nome é Lucas, tenho 20 anos, sou estudante do sétimo período de ciência da computação e sou desenvolvedor FullStack. Gosto de participar de projetos desde a definição das regras de negócio e levantamento de requisitos até o deploy da aplicação.
+👋 Olá, meu nome é Lucas, tenho 21 anos, sou estudante do oitavo período de ciência da computação e sou desenvolvedor FullStack. Gosto de participar de projetos desde a definição das regras de negócio e levantamento de requisitos até o deploy da aplicação.
 
 Atualmente estou atuando como estagiário na empresa Splendore, na qual desempenho a função de Desenvolvedor Web.
 
