@@ -10,9 +10,6 @@
   <br />
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/LucasLevingston/LucasLevingston/output-3d-contrib/night.svg" />
 
-  </div>
-
-##
 
    <div align="center" >
      <img src="https://github-profile-trophy.vercel.app/?username=LucasLevingston&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
