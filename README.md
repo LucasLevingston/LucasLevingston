@@ -14,11 +14,14 @@
 ![Profile 3D](./profile-3d-contrib/profile-night-green.svg)
 
 <div align="center">  
-<a href="https://www.instagram.com/lucaolevingston/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://lucas-levingston.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?&style=for-the-badge&logo=About.me&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/lucas-levingston-44b851231/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="https://wa.me/message/BL2FCNM72L7GJ1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white"</a>
-</div> 
+Contact me! 📭
+
+<a href="https://lucas-levingston.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="riversdiniz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lucas-levingston" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riversdiniz" height="30" width="40" /></a>
+<a href="https://wa.me/message/BL2FCNM72L7GJ1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
+<a href="https://instagram.com/lucaolevingston" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riversdiniz" height="30" width="40" /></a>
+
+</div>
  
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
