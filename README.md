@@ -11,13 +11,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=LucasLevingston&theme=nord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/LucasLevingston/LucasLevingston/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasLevingston/LucasLevingston/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/LucasLevingston/LucasLevingston/output-3d-contrib/day.svg" />
-	</picture>
-</p>
+![Profile 3D](./profile-3d-contrib/profile-night-green.svg)
 
 <div align="center">  
 <a href="https://www.instagram.com/lucaolevingston/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
