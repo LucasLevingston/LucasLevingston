@@ -11,7 +11,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=LucasLevingston&theme=nord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-![Profile 3D](./profile-3d-contrib/profile-night-green.svg)
+![Profile 3D](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center">  
 Contact me! 📭
@@ -23,64 +23,28 @@ Contact me! 📭
 
 </div>
  
-### Main skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+ <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,tailwind,nodejs,express,vite,docker,figma,github,graphql,postman,vercel,vite,bootstrap,mongodb,postgres,mysql,prisma,sequelize,git,github,vscode,css,html,vitest,firebase,sequelize" />
+</a>
+  <br />
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/LucasLevingston/LucasLevingston/output-3d-contrib/night.svg" />
 
-### Medium Skills
-
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117)&nbsp;
-
-### Frameworks
-
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwind-css&labelColor=0D1117)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&labelColor=0D1117)&nbsp;
-![Fastify](https://img.shields.io/badge/-Fastify-0D1117?style=for-the-badge&logo=fastify&labelColor=0D1117)&nbsp;
-![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
-
-### Tools:
-
-![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-
-### Other Knowledge:
-
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-
-### Studying in this moment:
-
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+  </div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LucasLevingston}/count.svg" /></p> 
 <br></div>
 
+<div align="center">
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasLevingston/LucasLevingston/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasLevingston/LucasLevingston/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucasLevingston/LucasLevingston/output/github-contribution-grid-snake.svg">
 </picture>
-
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff2200&height=120&section=footer"/>
 
 
