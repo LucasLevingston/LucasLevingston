@@ -25,7 +25,7 @@ Contact me! 📭
  
  <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,tailwind,nodejs,express,vite,docker,figma,github,graphql,postman,vercel,vite,bootstrap,mongodb,postgres,mysql,prisma,sequelize,git,github,vscode,css,html,vitest,firebase,sequelize" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,tailwind,nodejs,express,vite,docker,figma,github,graphql,postman,vercel,vite,bootstrap,mongodb,postgres,mysql,prisma,sequelize,git,github,vscode,css,html,vitest,firebase" />
 </a>
   <br />
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/LucasLevingston/LucasLevingston/output-3d-contrib/night.svg" />
